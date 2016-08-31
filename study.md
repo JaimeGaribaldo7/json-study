@@ -38,7 +38,15 @@ As it makes sense to you please write the following in JSON format:
 -   Has lived in two places recently: 123 Fake street, and 2 Muchinfo Road
 
 ```json
-<!-- your answer here -->
+<name>Jason</name>
+  <has value = "Cat" name ="Mr.Kitty"/>
+  <has value = "Roomate" name="Dave">
+  <has value = "Roomate" name="Dave">
+  <likes value="Sports" name="Red Sox">
+  <likes value="Sports" name="Patriots">
+  <likes value="Sports" name="Bruins">
+  <lives value="address">
+
 ```
 
 I forgot, my roomate Dave has two goldfish, one named Bob (he's red) and the
@@ -46,7 +54,17 @@ other named Mr.MagicNibbles (yellow) and bites a bit. Please copy the JSON you
 already wrote and include the information about Dave's fish.
 
 ```json
-<!-- your answer here -->
+<name>Jason</name>
+  <has value = "Pet" name ="Mr.Kitty"/>
+  <has value = "Pet" name ="Bob"/>
+  <has value = "Pet" name ="Mr.MagicNibbles"/>
+  <has value = "Roomate" name="Dave">
+  <has value = "Roomate" name="Dave">
+  <likes value="Sports" name="Red Sox">
+  <likes value="Sports" name="Patriots">
+  <likes value="Sports" name="Bruins">
+  <lives value="address">
+
 ```
 
 ## JSON Methods
@@ -54,7 +72,7 @@ already wrote and include the information about Dave's fish.
 Using the JSON your wrote above, can you write a method on the JSON?
 
 ```json
-<!-- your answer here -->
+Pet(Mr.Kitty)
 ```
 
 ## JSON Comments
@@ -62,5 +80,5 @@ Using the JSON your wrote above, can you write a method on the JSON?
 Using the JSON your wrote above, can you write a comment in the JSON?
 
 ```json
-<!-- your answer here -->
+Comments are not supported in Json documents?.. trick question, or i didnt understand the documents.
 ```
